@@ -52,6 +52,8 @@ GROUP BY d.name;
 
 ![ER Diagram](clinic_booking_system.drawio (2).png)
 
+![bookstore_ERDiagram](/bookstore.jpeg)
+
 *Replace with actual path or image URL if hosted online.*
 
 ## 📂 Files Included

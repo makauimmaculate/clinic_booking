@@ -57,7 +57,7 @@ GROUP BY d.name;
 
 * `clinic_booking_system.sql` — SQL script with all table definitions and foreign key constraints.
 * `README.md` — Setup guide and documentation.
-* `docs/clinic_booking_erd.png` — Visual representation of the database schema.
+* `/clinic_booking_system.jpg` — Visual representation of the database schema.
 * `sample_data.sql` — Optional test data script .
 
 

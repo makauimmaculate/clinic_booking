@@ -53,8 +53,6 @@ GROUP BY d.name;
 ![ER Diagram](/clinic_booking_system.jpg)
 
 
-*Replace with actual path or image URL if hosted online.*
-
 ## 📂 Files Included
 
 * `clinic_booking_system.sql` — SQL script with all table definitions and foreign key constraints.

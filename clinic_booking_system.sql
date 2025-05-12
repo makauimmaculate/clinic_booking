@@ -1,5 +1,5 @@
 -- Create Database
-CREATE DATABASE IF NOT EXISTS clinic_booking;
+CREATE DATABASE  clinic_booking;
 USE clinic_booking;
 
 -- Create Patients Table

@@ -50,7 +50,7 @@ GROUP BY d.name;
 
 ## 🖼️ Entity-Relationship Diagram (ERD)
 
-![ER Diagram](docs/clinic_booking_erd.png)
+![ER Diagram](clinic_booking_system.drawio (2).png)
 
 *Replace with actual path or image URL if hosted online.*
 
